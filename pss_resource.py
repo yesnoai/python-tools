@@ -1,6 +1,7 @@
 import re
 import os
 
+# add some comments
 def get_file_size(file_path):
     """
     返回指定文件的大小（字节）。如果文件不存在或发生错误，返回 None。
